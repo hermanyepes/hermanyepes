@@ -26,12 +26,12 @@ prácticas, testing automatizado y desarrollo asistido por IA con GitHub Copilot
 ### [BizCore — Backend](https://github.com/hermanyepes/bizcore)
 API REST empresarial construida con FastAPI + PostgreSQL.  
 Autenticación JWT con refresh token rotation, control de roles, 
-soft delete y 145+ tests automatizados.
+soft delete y 210+ tests automatizados.
 
 ### [BizCore — Frontend](https://github.com/hermanyepes/bizcore-frontend)
 Interfaz web construida con Angular 18 + Angular Material.  
-Dark theme UI con módulos de autenticación, usuarios, productos, 
-inventario, proveedores y órdenes.
+Dark theme UI con 530+ tests automatizados y módulos de autenticación, 
+usuarios, productos, inventario, proveedores y órdenes.
 
 ---
 
